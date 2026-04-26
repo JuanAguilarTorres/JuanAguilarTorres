@@ -10,7 +10,7 @@
 
 Software engineering graduate from the University of Costa Rica with hands-on experience in full-stack development and system design. I focus on building efficient, maintainable software and delivering seamless user experiences through clean architecture and reliable engineering practices.
 
-- Bachelor of Software Engineering, Honors (2020-2025).
+- Bachelor of Software Engineering, Honors (2021-2025).
 - Full Stack Developer with extensive project experience.
 - Based in Costa Rica.
 
